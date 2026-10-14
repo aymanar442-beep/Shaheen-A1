@@ -9,8 +9,9 @@ The platform focuses on early pathogen detection algorithms, microscopic analysi
 
 ### 🌐 Official Giveth Verification & Public Support
 - **Official Giveth Campaign**: [Shaheen Care A1 on Giveth](https://giveth.io)
+- **Project Demonstration Video**: [Watch Shaheen A1 on YouTube](https://youtube.com/shorts/MOSarzM3M4c)
 - **Project Lead / Founder**: Ayman Al-Araishi (@aymanar442-beep)
 - **Organization**: SHAHEEN APEX AI
 - **Official Channel**: [YouTube @shaheen-apex-ai](https://www.youtube.com/@shaheen-apex-ai)
 
-> *Notice for Giveth Verification Team*: This repository represents the core source codebase for the Shaheen Care A1 initiative publicly verified for Giveth crowdfunding.
+> *Notice for Giveth Verification Team*: This repository and linked media represent the core verifiable assets for the Shaheen Care A1 initiative on Giveth.
